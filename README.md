@@ -20,6 +20,7 @@ Clone the repository and install the requirements:
 git clone https://github.com/megumiselin/housing-price-analysis.git
 cd housing-price-analysis
 pip install -r requirements.txt
+```
 ---
 ## Usage
 Run the Jupyter Notebook:
