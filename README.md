@@ -29,8 +29,11 @@ jupyter notebook housing_price_analysis.ipynb
 ## Project Highlights
 
 -Performed exploratory data analysis (EDA) on housing dataset
+
 -Applied data preprocessing and feature engineering
+
 -Built a machine learning regression model to predict house prices
+
 -Visualized key insights from the dataset
 
 ## Requirements/Main libraries:
